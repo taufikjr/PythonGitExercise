@@ -10,3 +10,5 @@ scndnum = float(input('Second number: '))
 
 result = multiply(frstnum, scndnum)
 print(f"The multiplication of {frstnum} X {scndnum} is = {result}")
+print('Okay Bye')
+1
